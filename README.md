@@ -4,7 +4,11 @@ This note taker is designed for small business owners to be able to write and sa
 
 
 LINKS: 
+
+(repository)
 https://github.com/davidherring1998/note-taker
+
+(deployed)
 https://davidherring1998.github.io/note-taker/
 
 
